@@ -191,3 +191,4 @@ export default function Register() {
     </Card>
   );
 }
+// her şey tamam
